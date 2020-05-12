@@ -474,7 +474,7 @@ class _LoginScreenState extends State<LoginScreen>
                       padding: const EdgeInsets.all(0),
                       onPressed: _buildForgetPasswordForm,
                       child: Text(
-                        '  Forget \n  Password ?',
+                        '  Forget Password ?',
                         style: textTheme.button.copyWith(
                           fontSize: 16.0,
                         ),
